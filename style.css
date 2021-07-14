@@ -1,0 +1,32 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    text-align: center;
+}
+
+#left-right {
+    background-color: blue;
+    color: white;
+    font-family: 'Open Sans Condensed', serif;
+    font-size: 18px;
+}
+
+.profile {
+    display: inline;
+}
+
+.name {
+    font-family: 'Mate Sc', sans-serif;
+    font-size: 30px;
+}
+
+#image1 {
+    height: 250px;
+    width: 250px;
+    border-radius: 50px;
+    border-style: solid;
+    border-color: green;
+    border-width: 3px;
+}
